@@ -1,7 +1,0 @@
-C:\Users\stefa\source\repos\Algorithma\Algorithma\bin\Debug\Algorithma.exe.config
-C:\Users\stefa\source\repos\Algorithma\Algorithma\bin\Debug\Algorithma.exe
-C:\Users\stefa\source\repos\Algorithma\Algorithma\bin\Debug\Algorithma.pdb
-C:\Users\stefa\source\repos\Algorithma\Algorithma\obj\Debug\Algorithma.csproj.AssemblyReference.cache
-C:\Users\stefa\source\repos\Algorithma\Algorithma\obj\Debug\Algorithma.csproj.CoreCompileInputs.cache
-C:\Users\stefa\source\repos\Algorithma\Algorithma\obj\Debug\Algorithma.exe
-C:\Users\stefa\source\repos\Algorithma\Algorithma\obj\Debug\Algorithma.pdb
